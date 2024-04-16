@@ -1,0 +1,32 @@
+.text-left {
+    text-align: justify;
+    text-justify: distribute-all-lines;
+    hyphens: auto;
+  }
+
+
+  @media (max-width: 640px) {
+    .card {
+      max-width:350px !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+
+    .dropdownmenu{
+      margin-top: -17px;
+    }
+
+    .comment{
+      width: 200px !important;
+      resize:none !important;
+    }
+  }
+
+  @media(min-width: 1000px) {
+    .leftCont{
+      width:65%;
+    }
+    .rightCont{
+      width:35%;
+    }
+  }

@@ -1,0 +1,37 @@
++---config
+|       db.js
+|       
++---controllers
+|   +---appointmentControllers
+|   |       appointmentController.js
+|   |       
+|   +---ratingControllers
+|   |       getReviewsController.js
+|   |       submitRating.js
+|   |       
+|   +---serviceControllers
+|   |       serviceController.js
+|   |       
+|   +---storeControllers
+|   |       filterStoresController.js
+|   |       storeController.js
+|   |       
+|   \---userControllers
+|           deleteUser.js
+|           getUserAppointments.js
+|           getUserReview.js
+|           loginController.js
+|           otpController.js
+|           passwordChange.js
+|           registerController.js
+|           
++---models
+|       
++---routes
+|       appointment.js
+|       review.js
+|       services.js
+|       store.js
+|       user.js
+|       
+\---utils

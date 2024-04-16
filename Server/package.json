@@ -1,0 +1,38 @@
+{
+  "name": "node-mysql-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "emailjs": "^4.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mailer": "^0.6.7",
+    "mongoose": "^8.0.3",
+    "node": "^21.2.0",
+    "nodemailer": "^6.9.7",
+    "otp-generator": "^4.0.1",
+    "pg": "^8.11.3",
+    "pg-pool": "^3.6.1",
+    "postgres": "^3.4.3",
+    "two-step-auth": "^1.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "react-router-dom": "^6.21.1"
+  }
+}

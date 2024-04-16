@@ -1,0 +1,91 @@
+.form-style{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    height: 60%;
+    padding-top: 1%;
+    width:25%;
+    flex-direction: column;
+    justify-content: center;
+    gap:3%;
+    background-color: rgba(255, 255, 255, 0.5); /* 30% opacity */
+    border-radius: 30px;
+    top: 20%;
+    left: 37.5%;
+    margin-top: 10%;
+}
+
+.form-style input {
+    display: block;
+    padding: 2%;
+    border-style: solid;
+    border-radius: 10px;
+    margin-right: 4.5%;
+}
+
+.icon {
+    position: relative;
+    display: inline-block;
+}
+
+input:focus + .icon {
+    display: none;
+}
+
+.fa-icon {
+    position: absolute;
+    left: 85%; /* Adjust the icon's position as needed */
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+input[type=text]{
+    padding:10px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+input[type=password]{
+    padding:10px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+.submit-btn{
+    border-radius: 5px;
+    font-size: 1em;
+    background-color: rgba(0, 191, 255, 0.5);
+    border:none;
+    height: 10%;
+    width: 20%;
+    cursor: pointer;
+}
+
+.login-text p{
+    font-size: 120px;
+    font-weight: bold;
+    color: black;
+    text-shadow: 1px 1px 3px rgba(0, 191, 255, 0.5);
+    font-family: 'Dancing Script', cursive;
+}
+
+.log-box{
+    top: 5%;
+    display: grid; 
+    grid-template-rows: 1fr 1fr;
+    gap: 100px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sign-btn {
+    text-decoration: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}

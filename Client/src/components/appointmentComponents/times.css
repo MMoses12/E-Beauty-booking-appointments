@@ -1,0 +1,17 @@
+.hour-selector {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .hour-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  .hour-box:hover {
+    background-color: #f0f0f0;
+  }
+
+ 

@@ -1,0 +1,17 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.starting-page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.navbar-box {
+    z-index: 1;
+}
+
+.carousel-box {
+    z-index: 0;
+}
