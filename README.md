@@ -38,23 +38,23 @@ A step by step series of examples that tell you how to get a development environ
    git clone
 
 2. Install NPM packages for both client and server <br/>
-   cd e-beauty
-   cd server
-   npm install
-   cd ../client
-   npm install
+   cd e-beauty <br/>
+   cd server <br/>
+   npm install <br/>
+   cd ../client <br/>
+   npm install <br/>
 
 3. Set up your PostgreSQL database <br/>
-   Create a new database named 'ebeauty'
-   Configure the connection settings in your server configuration files
+   Create a new database named 'ebeauty' <br/>
+   Configure the connection settings in your server configuration files <br/>
 
 4. Run the development server: <br/>
-   cd server
-   npm start
+   cd server <br/>
+   npm start <br/>
 
-   Navigate to the client folder in another terminal window:
-   cd client
-   npm run watch
+   Navigate to the client folder in another terminal window: <br/>
+   cd client <br/>
+   npm run watch <br/>
 
 ## Copyright
    © 2024 E-Beauty. All Rights Reserved.
