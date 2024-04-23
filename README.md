@@ -12,7 +12,7 @@ E-Beauty is a web application designed to facilitate the scheduling of appointme
 
 ## Technologies Used
 
-- **Frontend**: React.js, Tailwind CSS, Bootstrap
+- <u>**Frontend**</u>: React.js, Tailwind CSS, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL
 - **Authentication**: JWT
@@ -35,7 +35,7 @@ A step by step series of examples that tell you how to get a development environ
 
 1. Clone the repo <br/>
    ```bash
-   git clone
+   git clone https://github.com/MMoses12/E-Beauty-booking-appointments.git
 
 2. Install NPM packages for both client and server <br/>
    ```bash
