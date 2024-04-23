@@ -38,6 +38,7 @@ A step by step series of examples that tell you how to get a development environ
    git clone
 
 2. Install NPM packages for both client and server <br/>
+   '''bash
    cd e-beauty <br/>
    cd server <br/>
    npm install <br/>
@@ -49,10 +50,12 @@ A step by step series of examples that tell you how to get a development environ
    Configure the connection settings in your server configuration files <br/>
 
 4. Run the development server: <br/>
+   '''bash
    cd server <br/>
    npm start <br/>
 
    Navigate to the client folder in another terminal window: <br/>
+   '''bash
    cd client <br/>
    npm run watch <br/>
 
