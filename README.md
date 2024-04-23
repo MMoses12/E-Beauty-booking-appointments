@@ -57,8 +57,8 @@ A step by step series of examples that tell you how to get a development environ
 
    Navigate to the client folder in another terminal window: <br/>
    ```bash
-   cd client <br/>
-   npm run watch <br/>
+   cd client
+   npm run watch
    ```
 
 ## Copyright
