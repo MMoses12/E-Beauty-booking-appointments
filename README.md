@@ -12,7 +12,7 @@ E-Beauty is a web application designed to facilitate the scheduling of appointme
 
 ## Technologies Used
 
-- **<u>Frontend</u>**: React.js, Tailwind CSS, Bootstrap
+- **Frontend**: React.js, Tailwind CSS, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL
 - **Authentication**: JWT
