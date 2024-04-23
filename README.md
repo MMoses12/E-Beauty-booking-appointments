@@ -1,6 +1,6 @@
 # E-Beauty
 
-E-Beauty is a web application designed to facilitate the scheduling of appointments for beauty salons and tattoo artists. It provides a user-friendly interface for clients to find and book services conveniently. This project uses a robust backend built with Node.js and ExpressJS, and a reactive frontend developed with React.
+E-Beauty is a web application designed to facilitate the scheduling of appointments for beauty salons and tattoo artists. It provides a user-friendly interface for clients to find and book services conveniently. This project uses a robust backend built with Node.js and Express.js with a databse made in PostgreSQL, and a reactive frontend developed with React.
 
 ## Features
 
