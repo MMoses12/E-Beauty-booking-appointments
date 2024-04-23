@@ -33,22 +33,22 @@ PostgreSQL
 
 A step by step series of examples that tell you how to get a development environment running:
 
-1. Clone the repo
+1. Clone the repo <br/>
    ```bash
    git clone
 
-2. Install NPM packages for both client and server
+2. Install NPM packages for both client and server <br/>
    cd e-beauty
    cd server
    npm install
    cd ../client
    npm install
 
-3. Set up your PostgreSQL database
+3. Set up your PostgreSQL database <br/>
    Create a new database named 'ebeauty'
    Configure the connection settings in your server configuration files
 
-4. Run the development server:
+4. Run the development server: <br/>
    cd server
    npm start
 
