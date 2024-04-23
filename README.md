@@ -39,11 +39,11 @@ A step by step series of examples that tell you how to get a development environ
 
 2. Install NPM packages for both client and server <br/>
    ```bash
-   cd e-beauty <br/>
-   cd server <br/>
-   npm install <br/>
-   cd ../client <br/>
-   npm install <br/>
+   cd e-beauty
+   cd server
+   npm install
+   cd ../client
+   npm install
 
 3. Set up your PostgreSQL database <br/>
    Create a new database named 'ebeauty' <br/>
@@ -51,8 +51,8 @@ A step by step series of examples that tell you how to get a development environ
 
 4. Run the development server: <br/>
    ```bash
-   cd server <br/>
-   npm start <br/>
+   cd server
+   npm start
    ```
 
    Navigate to the client folder in another terminal window: <br/>
