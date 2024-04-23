@@ -56,7 +56,7 @@ A step by step series of examples that tell you how to get a development environ
    cd client
    npm run watch
 
-###Copyright <br/>
+### Copyright
    © 2024 E-Beauty. All Rights Reserved.
 
 
